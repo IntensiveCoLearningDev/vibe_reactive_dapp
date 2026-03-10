@@ -59,9 +59,10 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 3.09 | 3.10 | 3.11 | 3.12 | 3.13 | 3.14 | 3.15 | 3.16 | 3.17 | 3.18 | 3.19 | 3.20 | 3.21 | 3.22 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [brucexu-eth](https://github.com/IntensiveCoLearningDev/vibe_reactive_dapp/blob/main/notes/brucexu-eth.md) |   | | | | | | | | | | | | | |
-| [DrakenZeng](https://github.com/IntensiveCoLearningDev/vibe_reactive_dapp/blob/main/notes/DrakenZeng.md) |   | | | | | | | | | | | | | |
+| [brucexu-eth](https://github.com/IntensiveCoLearningDev/vibe_reactive_dapp/blob/main/notes/brucexu-eth.md) | ⭕️ |   | | | | | | | | | | | | |
+| [DrakenZeng](https://github.com/IntensiveCoLearningDev/vibe_reactive_dapp/blob/main/notes/DrakenZeng.md) | ⭕️ |   | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
